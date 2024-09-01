@@ -20,9 +20,9 @@ This is a basic Node.js web application that demonstrates CRUD operations, user 
 
 1. **Clone the repository:**
 
-  bash
-   git clone https://github.com/yourusername/nerdtech-nodejs-project.git
-   cd nerdtech-nodejs-project
+  **bash:**
+   git@github.com:ChandupaJay1/MERN_Project.git
+   cd <root>-nodejs-project
 
    
 2. **Install dependencies:**
