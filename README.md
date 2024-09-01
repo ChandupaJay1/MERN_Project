@@ -18,24 +18,25 @@ This is a basic Node.js web application that demonstrates CRUD operations, user 
 
 ## Installation
 
-1. **Clone the repository:**
+1. **Clone the repository on Git Bash:**
 
-  **bash:**
-   git@github.comChandupaJay1/MERN_Project.git
-   cd <root>-nodejs-project
+  
+   * git@github.com:ChandupaJay1/MERN_Project.git
+   
+   * cd <root>-nodejs-project
 
    
-2. **Install dependencies:**
+3. **Install dependencies:**
     
     npm install
 
-3. **Set up MongoDB:**
+4. **Set up MongoDB:**
 
     * Sign up for MongoDB Atlas or use a local instance.
     * Create a cluster and obtain the connection string.
     * Whitelist your IP address if using MongoDB Atlas.
 
-4. **Configure environment variables:**
+5. **Configure environment variables:**
 
     * Create a .env file in the root of your project:
 
