@@ -20,7 +20,7 @@ This is a basic Node.js web application that demonstrates CRUD operations, user 
 
 1. **Clone the repository:**
 
-   ```bash
+  bash
    git clone https://github.com/yourusername/nerdtech-nodejs-project.git
    cd nerdtech-nodejs-project
 
@@ -56,7 +56,7 @@ This is a basic Node.js web application that demonstrates CRUD operations, user 
 
    **Project Structure**
 
-        **├── config**
+          ├── config
           │   ├── corsOptions.js
           │   ├── dbConn.js
           │   └── allowedOrigins.js
@@ -71,10 +71,10 @@ This is a basic Node.js web application that demonstrates CRUD operations, user 
           │   ├── root.js
           │   └── userRoutes.js
           ├── views
-        **│   └── 404.html**
+          │   └── 404.html
           ├── .env
           ├── server.js
-        **├── package.json**
+          ├── package.json**
           └── README.md
 
 
