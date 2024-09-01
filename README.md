@@ -21,9 +21,9 @@ This is a basic Node.js web application that demonstrates CRUD operations, user 
 1. **Clone the repository on Git Bash:**
 
   
-   * git@github.com:ChandupaJay1/MERN_Project.git
+   - git clone git@github.com:ChandupaJay1/MERN_Project.git
    
-   * cd <root>-nodejs-project
+   - cd <root>-nodejs-project
 
    
 3. **Install dependencies:**
