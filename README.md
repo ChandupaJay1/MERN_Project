@@ -1,4 +1,4 @@
-# Chandupa Jayalath Node.js Project
+# Node.js Project
 
 This is a basic Node.js web application that demonstrates CRUD operations, user authentication, and logging, using Express.js and MongoDB.
 
